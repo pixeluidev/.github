@@ -18,4 +18,4 @@ Accessible and customizable components that you can copy and paste into your app
 
 ### License
 
-The MIT License (MIT). Please see [License File](https://github.com/pixeluidev/pixelui-kits/blob/main/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/pixeluidev/pixelui-kits/blob/master/LICENSE) for more information.
