@@ -5,6 +5,8 @@
 🚀 Build your next website even faster with premade responsive components designed and built for Tailwind and Svelte community. All components are free forever for everyone.
 
 
+Accessible and customizable components that you can copy and paste into your apps. Free. Open Source. Use this to build your own component library.
+
 ### Resources
 
 -   [Tailwind CSS](https://tailwindcss.com)
