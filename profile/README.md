@@ -1,5 +1,6 @@
+![PixelUI Growing collection of ready-to-use Svelte components](https://pixelui.dev/og-image.png)
+## Pixel UI - PixelUI.dev
 
-## Pixel UI
 
 
 🚀 Build your next website even faster with premade responsive components designed and built for Tailwind and Svelte community. All components are free forever for everyone.
