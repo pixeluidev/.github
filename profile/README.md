@@ -8,6 +8,15 @@
 
 Accessible and customizable components that you can copy and paste into your apps. Free. Open Source. Use this to build your own component library.
 
+🎨 **What Exactly is PixelUI?**
+
+Think of PixelUI as your **go-to toolbox** for modern web development:
+- 📦 Growing collection of ready-to-use Svelte components
+- 🎨 Powered by Tailwind CSS (customize to your heart's content)
+- 🌗 Automatic light/dark mode
+- 🚀 Lightweight & responsive by design
+- 💫 Forever free (MIT Licensed)!
+
 ### Resources
 
 -   [Tailwind CSS](https://tailwindcss.com)
